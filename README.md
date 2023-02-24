@@ -42,4 +42,48 @@
 - [Rust](https://www.rust-lang.org/)
 - [TinyGo](https://tinygo.org/)
 - [MicroPython](https://docs.micropython.org/)
+##### Frameworks
+- [Apple HomeKit](https://developer.apple.com/homekit/)
+- [Blynk](http://www.blynk.cc/)
+- [Eclipse Smarthome](https://eclipse.org/smarthome/)
+- [OpenHAB](http://www.openhab.org/)
+- [Home Assistant](https://github.com/home-assistant/home-assistant)
+- [IOTA](https://iota.org/)
+
+### AI
+#### Generative AI
+##### Models
+- [GPT-3](https://openai.com/api/)
+- [Gopher](https://www.deepmind.com/blog/language-modelling-at-scale-gopher-ethical-considerations-and-retrieval)
+- [OPT](https://huggingface.co/facebook/opt-350m)
+- [Bloom](https://huggingface.co/docs/transformers/model_doc/bloom)
+##### Services
+- [Compose AI](https://www.compose.ai/)
+- [Rytr](https://rytr.me/)
+- [wordtune](https://www.wordtune.com/)
+- [copy.ai](https://www.copy.ai/)
+- [Jasper](https://www.jasper.ai/)
+- [Anyword](https://anyword.com/)
+- [Copysmith](https://copysmith.ai/)
+##### Code
+- [Github CoPilot](https://github.com/features/copilot)
+- [Pygma](https://pygma.app/)
+- [Kite](https://www.kite.com/)
+##### Image
+- [DALL-E 2](https://openai.com/dall-e-2/)
+- [MidJourney](https://www.midjourney.com/)
+- [Stable Diffusion](https://huggingface.co/CompVis/stable-diffusion-v1-4)
+- [Magic Eraser](https://www.magiceraser.io/) - Remove unwanted things from images in seconds.
+- [Alpaca](https://www.getalpaca.io/) - Stable Diffusion Photoshop plugin.
+- [Lensa](https://prisma-ai.com/lensa) - An all-in-one image editing app that includes the generation of personalized avatars using Stable Diffusion.
+- [Avatar AI](https://avatarai.me/) - Create your own AI-generated avatars.
+##### Video
+- [RunwayML](https://runwayml.com/)
+- [Synthesia](https://www.synthesia.io/)
+##### Audio
+- [Resemble AI](https://www.resemble.ai/)
+- [Eleven Labs](https://elevenlabs.io/)
+
+- [Have I been trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
+
 
