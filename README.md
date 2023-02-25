@@ -3,7 +3,7 @@
 
 > A curated list of resources I find useful and use in both my professional career as well as for hobbies.
 
-## Contents
+### Contents
 
 - [IoT](#iot)
 - [AI](#ai)
@@ -87,3 +87,56 @@
 - [Have I been trained?](https://haveibeentrained.com/) - Check if your image has been used to train popular AI art models.
 
 
+### Computer Vision
+#### Courses
+- [Stanford](http://cs231n.stanford.edu/)
+- [CUHK](https://piazza.com/cuhk.edu.hk/spring2015/eleg5040/home)
+- [Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
+- [NYU](http://cilvr.cs.nyu.edu/doku.php?id=courses:deeplearning2014:start)
+#### Books
+- [Deep Learning by Ian Goodfellow, Yoshua Bengio, and Aaron Courville](http://www.iro.umontreal.ca/~bengioy/dlbook/)
+- [Neural Networks and Deep Learning by Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
+- [Deep Learning Tutorial by LISA lab, University of Montreal](http://deeplearning.net/tutorial/deeplearning.pdf)
+#### Videos
+- [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning By Andrew Ng](https://www.youtube.com/watch?v=n1ViNeWhC24)
+- [Recent Developments in Deep Learning By Geoff Hinton](https://www.youtube.com/watch?v=vShMxxqtDDs)
+- [The Unreasonable Effectiveness of Deep Learning by Yann LeCun](https://www.youtube.com/watch?v=sc-KbuZqGkI)
+- [Deep Learning of Representations by Yoshua bengio](https://www.youtube.com/watch?v=4xsVFLnHC_0)
+#### Software
+- [DLib](http://dlib.net/imaging.html) - DLib has C++ and Python interfaces for face detection and training general object detectors.
+- [OpenCV](https://opencv.org/) - OpenCV has C++, C, Python, Java and MATLAB interfaces and supports Windows, Linux, Android and Mac OS.
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - A real-time multi-person keypoint detection library for body, face, hands, and foot estimation
+- [face_recognition](https://github.com/ageitgey/face_recognition) - Face recognition library that recognizes and manipulates faces from Python or from the command line.
+- [deepface](https://github.com/serengil/deepface) - A lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for Python covering cutting-edge models such as VGG-Face, FaceNet, OpenFace, DeepFace, DeepID, Dlib and ArcFace.
+- [detectron2](https://github.com/facebookresearch/detectron2) - FAIR's next-generation research platform for object detection and segmentation. It is a ground-up rewrite of the previous version, Detectron, and is powered by the PyTorch deep learning framework.
+
+### Python
+- [uvicorn](https://github.com/encode/uvicorn) - A lightning-fast ASGI server implementation, using uvloop and httptools.
+- [asyncio](https://docs.python.org/3/library/asyncio.html) - (Python standard library) Asynchronous I/O, event loop, coroutines and tasks.
+- [Twisted](https://twisted.org/) - An event-driven networking engine
+- [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+- [django-cms](https://www.django-cms.org/en/) - An Open source enterprise CMS based on the Django.
+- [httpie](https://github.com/httpie/httpie) -  A command line HTTP client, a user-friendly cURL replacement.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
+- [psycopg](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
+- [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration.
+- [tensorflow](https://github.com/tensorflow/tensorflow) - The most popular Deep Learning framework created by Google.
+- [ansible](https://github.com/ansible/ansible) - A radically simple IT automation platform.
+- [fabric](https://github.com/fabric/fabric) - A simple, Pythonic tool for remote execution and deployment.
+- [supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for UNIX.
+- [youtube-dl](https://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
+- [saleor](https://saleor.io/) - Headless open-source e-commerce platform.
+- [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
+- [virtualenv](https://github.com/pypa/virtualenv) - A tool to create isolated Python environments.
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - Providing Pythonic idioms for iterating, searching, and modifying HTML or XML.
+- [urllib3](https://github.com/shazow/urllib3) - A HTTP library with thread-safe connection pooling, file post support, sanity friendly.
+- [requests](https://github.com/psf/requests) - HTTP Requests for Humans.
+- [pillow](https://github.com/python-pillow/Pillow) - Pillow is the friendly PIL fork.
+- [SQLAlchemy](https://www.sqlalchemy.org/) - The Python SQL Toolkit and Object Relational Mapper
+- [pip](https://pip.pypa.io/en/stable/) - The package installer for Python
+- [conda](https://github.com/conda/conda/) - Cross-platform, Python-agnostic binary package manager.
+- [django-rest-framework](http://www.django-rest-framework.org/) - A powerful and flexible toolkit to build web APIs.
+- [fastapi](https://github.com/tiangolo/fastapi) - A modern, fast, web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- [celery](https://docs.celeryproject.org/en/stable/) -  An asynchronous task queue/job queue based on distributed message passing.
+- [Jinja2](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
+- [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
