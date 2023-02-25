@@ -140,3 +140,38 @@
 - [celery](https://docs.celeryproject.org/en/stable/) -  An asynchronous task queue/job queue based on distributed message passing.
 - [Jinja2](https://github.com/pallets/jinja) - A modern and designer friendly templating language.
 - [scrapy](https://scrapy.org/) - A fast high-level screen scraping and web crawling framework.
+
+### Ruby
+- [Administrate](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
+- [ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps.
+- [devise](https://github.com/heartcombo/devise) - A flexible authentication solution for Rails based on Warden.
+- [Doorkeepr](https://github.com/doorkeeper-gem/doorkeeper) - An OAuth2 provider for Rails.
+- [pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
+- [redis-store](http://redis-store.org/) -  Redis Store provides a full set of stores (Cache, I18n, Session, HTTP Cache) for modern Ruby frameworks like: Ruby on Rails, Sinatra, Rack, Rack::Cache and I18n. It supports object marshalling, timeouts, single or multiple nodes, and namespaces.
+- [Thor](http://whatisthor.com/) - A toolkit for building powerful command-line interfaces.
+- [Fog](https://github.com/fog/fog) - The Ruby cloud services library.
+- [brakeman](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
+- [rubocop](https://github.com/rubocop-hq/rubocop) - A static code analyzer, based on the community Ruby style guide.
+- [zeitwerk](https://github.com/fxn/zeitwerk) - An efficient and thread-safe Ruby code loader.
+- [EventMachine](https://github.com/eventmachine/eventmachine) -  An event-driven I/O and lightweight concurrency library for Ruby.
+- [dotenv](https://github.com/bkeepers/dotenv) - Loads environment variables from .env
+- [chartkick](http://chartkick.com/) - Create beautiful Javascript charts with one line of Ruby.
+- [connection_pool](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
+- [Strong Migratios](https://github.com/ankane/strong_migrations) - Catch unsafe migrations in development.
+- [groupdate](https://github.com/ankane/groupdate) -  The simplest way to group temporal data in ActiveRecord, arrays and hashes.
+- [capistrano](http://capistranorb.com/) - A remote server automation and deployment tool written in Ruby.
+- [chef](https://github.com/chef/chef) - A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.
+- [puppet](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
+- [rvm](https://rvm.io/) - RVM is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+- [Sentry Ruby](https://github.com/getsentry/sentry-ruby) - Ruby client for Sentry.
+- [flipper](https://github.com/jnunemaker/flipper) - Feature flipping for ANYTHING. Make turning features on/off so easy that everyone does it. Whatever your data store, throughput, or experience.
+- [Nokogiri](https://nokogiri.org/) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
+- [Faraday](https://github.com/lostisland/faraday) - an HTTP client lib that provides a common interface over many adapters (such as Net::HTTP) and embraces the concept of Rack middleware when processing the request/response cycle.
+- [ruby-vips](https://github.com/jcupitt/ruby-vips) -  A binding for the libvips image processing library.
+- [Foreman](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
+- [sidekiq](https://sidekiq.org/) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
+- [chewy](https://github.com/toptal/chewy) - High-level Elasticsearch Ruby framework based on the official elasticsearch-ruby client.
+- [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
+- [Mastodon](https://github.com/mastodon/mastodon) - A GNU Social-compatible microblogging server.
+- [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+- [Forem](https://github.com/forem/forem) - Forem is open source software for building communities. 
