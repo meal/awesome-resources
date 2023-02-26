@@ -2,6 +2,7 @@
 
 
 > A curated list of resources I find useful and use in both my professional career as well as for hobbies.
+> Some sections (like nginx) are just link to their respective awesome compilations
 
 ### Contents
 
@@ -11,7 +12,8 @@
 - [Machine Learning](#machine-learning)
 - [Python](#python)
 - [Ruby](#ruby)
-- [Linux](#linux)
+- [Go](#go)
+- [Nginx](https://github.com/fcambus/nginx-resources#readme)
 - [Cloud](#cloud)
 
 ### IoT
@@ -37,7 +39,7 @@
 - [Toit](https://toit.io/)
 - [UBOS](https://ubos.net/)
 ##### Programming languages
-- [C](https://en.wikipedia.org/wiki/C_(programming_language)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [Rust](https://www.rust-lang.org/)
 - [TinyGo](https://tinygo.org/)
@@ -175,3 +177,37 @@
 - [Mastodon](https://github.com/mastodon/mastodon) - A GNU Social-compatible microblogging server.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
 - [Forem](https://github.com/forem/forem) - Forem is open source software for building communities. 
+
+### Go
+- [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
+- [authboss](https://github.com/volatiletech/authboss) - Modular authentication system for the web. It tries to remove as much boilerplate and "hard things" as possible so that each time you start a new web project in Go, you can plug it in, configure it, and start building your app without having to build an authentication system each time.
+- [keto](https://github.com/ory/keto) - Open Source (Go) implementation of "Zanzibar: Google's Consistent, Global Authorization System". Ships gRPC, REST APIs, newSQL, and an easy and granular permission language. Supports ACL, RBAC, and other access models.
+- [go-ethereum](https://github.com/ethereum/go-ethereum) - Official Go implementation of the Ethereum protocol.
+- [progressbar](https://github.com/schollz/progressbar) - Basic thread-safe progress bar that works in every OS.
+- [godotenv](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from .env).
+- [kong](https://github.com/alecthomas/kong) - Command-line parser with support for arbitrarily complex command-line structures and additional sources of configuration such as YAML, JSON, TOML, etc (successor to kingpin).
+- [drone](https://github.com/drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go.
+- [bingo](https://github.com/iancmcc/bingo) - Fast, zero-allocation, lexicographical-order-preserving packing of native types to bytes.
+- [gods](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
+- [goset](https://github.com/zoumo/goset) - A useful Set collection implementation for Go.
+- [gocache](https://github.com/eko/gocache) - A complete Go cache library with multiple stores (memory, memcache, redis, ...), chainable, loadable, metrics cache and more.
+- [goose](https://github.com/pressly/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
+- [gokv](https://github.com/philippgille/gokv) - Simple key-value store abstraction and implementations for Go (Redis, Consul, etcd, bbolt, BadgerDB, LevelDB, Memcached, DynamoDB, S3, PostgreSQL, MongoDB, CockroachDB and many more).
+- [celeriac](https://github.com/svcavallar/celeriac.v1) - Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.
+- [emitter-io](https://github.com/emitter-io/emitter) - High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.
+- [forms](https://github.com/albrow/forms) - Framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files.
+- [arduino-cli](https://github.com/arduino/arduino-cli) - Official Arduino CLI and library. Can run standalone, or be incorporated into larger Go projects.
+- [gobot](https://github.com/hybridgroup/gobot/) - Golang framework for robotics, drones, and the Internet of Things (IoT)
+- [iot](https://github.com/vaelen/iot/) - A Go client for Google IoT Core
+- [check](https://github.com/datarootsio/cheek) - A simple crontab like scheduler that aims to offer a KISS approach to job scheduling.
+- [marshmallow](https://github.com/PerimeterX/marshmallow) - Performant JSON unmarshaling for flexible use cases.
+- [logrus](https://github.com/Sirupsen/logrus) - Structured logger for Go.
+- [amqp](https://github.com/rabbitmq/amqp091-go) - Go RabbitMQ Client Library.
+- [tfgo](https://github.com/galeone/tfgo) - Tensorflow + Go, the gopher way
+- [Benthos](https://github.com/benthosdev/benthos) - A message streaming bridge between a range of protocols.
+- [Beaver](https://github.com/Clivern/Beaver) - A real time messaging system to build a scalable in-app notifications, multiplayer games, chat apps in web and mobile apps.
+- [fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+- [cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
+- [Coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+- [teler-waf](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
+- [Caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
