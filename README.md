@@ -13,8 +13,9 @@
 - [Python](#python)
 - [Ruby](#ruby)
 - [Go](#go)
-- [Nginx](https://github.com/fcambus/nginx-resources#readme)
+- [Nginx](https://github.com/fcambus/nginx-resources#readme) - external
 - [Cloud](#cloud)
+- [Home Assistan](https://github.com/frenck/awesome-home-assistant#readme) - external
 
 ### IoT
 #### Hardware
