@@ -15,7 +15,7 @@
 - [Go](#go)
 - [Nginx](https://github.com/fcambus/nginx-resources#readme) - external
 - [Cloud](#cloud)
-- [Home Assistan](https://github.com/frenck/awesome-home-assistant#readme) - external
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - external
 
 ### IoT
 #### Hardware
@@ -177,7 +177,7 @@
 - [Metasploit](https://github.com/rapid7/metasploit-framework) - World's most used penetration testing software.
 - [Mastodon](https://github.com/mastodon/mastodon) - A GNU Social-compatible microblogging server.
 - [Discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [Forem](https://github.com/forem/forem) - Forem is open source software for building communities. 
+- [Forem](https://github.com/forem/forem) - Forem is open source software for building communities.
 
 ### Go
 - [GoAudio](https://github.com/DylanMeeus/GoAudio) - Native Go Audio Processing Library.
@@ -212,3 +212,8 @@
 - [Coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 - [teler-waf](https://github.com/kitabisa/teler-waf) - teler-waf is a Go HTTP middleware that provide teler IDS functionality to protect against web-based attacks and improve the security of Go-based web applications. It is highly configurable and easy to integrate into existing Go applications.
 - [Caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+
+### Cloud
+- [awesome-terraform](https://github.com/shuaibiyy/awesome-terraform)
+- [awesome-google-cloud-platform](https://github.com/GoogleCloudPlatform/awesome-google-cloud)
+- [awesome-cloud-security](https://github.com/4ndersonLin/awesome-cloud-security)
